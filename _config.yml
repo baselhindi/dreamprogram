@@ -6,11 +6,7 @@
 name: Basel Hindi
 
 # Short bio or description (displayed in the header)
-description: >
-Masters Student
-Computer Science
-Columbia University
-School of Engineering and Applied Sciences
+description: Masters Student /n Computer Science \n Columbia University \n School of Engineering and Applied Sciences
 Email: [basel].[hindi] at columbia.edu
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -23,14 +19,14 @@ avatar: https://baselhindi.github.io/images/Basel_Headshot.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: basel.hindi@columbia.edu
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: baselhindi@github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
