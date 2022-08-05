@@ -12,13 +12,17 @@ Welcome to my homepage! My name is Basel Hindi, and I am pursuing a Master’s d
 
 I graduated in 2018 with a bachelor’s degree in Mechanical Engineering from Texas A&M University. I then worked in industry for three years doing autonomous vehicle R&D. Throughout my time in industry, I developed a passion for CS, and more specifically, for computer vision and artificial intelligence. The CS@CU MS Bridge program offered me a unique opportunity to transition into the world of graduate level CS by first providing the necessary coursework for non-CS undergrads. 
 
+{:refdef: style="text-align: center;"}
 ![Headshot of Basel Hindi from the shoulders up smiling in a green sweater.](images/Basel_Hindi_Circle.png)
+{: refdef}
 
 ## About My Advisor
 
 Dr. Brian A. Smith is an Assistant Professor of Computer Science at Columbia University, and the director of the Computer-Enabled Abilities Laboratory (CEAL). He is also a Research Scientist in the Human–Computer Interaction research team at Snap Inc., the company behind Snapchat and Spectacles. His research goal is to develop computers that can grant people the ability to perceive and interact with the world around them. His approach is interdisciplinary and incorporates AI, accessibility, computer vision, game design, and social computing.
 
+{:refdef: style="text-align: center;"}
 ![Headshot of Brian Smith from the shoulders up smiling in a navy blazer.](images/Brian_Smith_Circle.png)
+{: refdef}
 
 ## About My Project
 
