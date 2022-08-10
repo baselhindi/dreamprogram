@@ -26,7 +26,7 @@ I graduated in 2018 with a bachelor’s degree in Mechanical Engineering from Te
 
 ## About My Project
 
-Sports Accessibility from Pixels: This project is lead by Ph.D. student Gaurav Jain, and it aims to enhance gameplay understanding of tennis for blind and visually impaired people using an immersive audio design. This work utilizes a computer vision architecture to dissect the components of a broadcasted tennis video including the court, players, and ball, and then converts those components to a digestible spatialized audio for blind and low-vision users.
+Sports Accessibility from Pixels: This project is led by Ph.D. student Gaurav Jain, and it aims to enhance gameplay understanding of tennis for blind and visually impaired people using an immersive audio design. This work utilizes a computer vision architecture to dissect the components of a broadcasted tennis video including the court, players, and ball, and then converts those components to a digestible spatialized audio for blind and low-vision users.
 
 {:refdef: style="text-align: center;"}
 ![Photo of a tennis broadcast with court lines and player bounding boxes overlayed ontop of the image. There is also a 2D representation of the game showing the player positions on the court, and that the current frame is of a player hitting the ball.](images/Tennis_Screenshot.jpg)
