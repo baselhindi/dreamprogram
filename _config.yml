@@ -16,55 +16,6 @@ avatar: https://baselhindi.github.io/images/Basel_Headshot.jpg
 #
 
 
-## test section
-
-# Site Author
-author:
-  name             : "Basel Hindi"
-  avatar           : https://baselhindi.github.io/images/Basel_Headshot.jpg
-  bio              : "Human-Computer Interaction | Computer Vision | Deep-Learning | Accessibility"
-  location         : "New York, USA"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ##
-  email            : "bh2807@columbia.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "baselhindi"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "basel-hindi-b1a453148"
-  orcid            : # "https://orcid.org/0000-0002-9084-9395"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
-
-
-## end of test section
-
-
-
-
-
 
 # Includes an icon in the footer for each username you enter
 footer-links:
