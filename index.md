@@ -13,7 +13,7 @@ Welcome to my homepage! My name is Basel Hindi, and I am pursuing a Master’s d
 I graduated in 2018 with a bachelor’s degree in Mechanical Engineering from Texas A&M University. I then worked in industry for three years doing autonomous vehicle R&D. Throughout my time in industry, I developed a passion for CS, and more specifically, for computer vision and artificial intelligence. The CS@CU MS Bridge program offered me a unique opportunity to transition into the world of graduate level CS by first providing the necessary coursework for non-CS undergrads. 
 
 {:refdef: style="text-align: center;"}
-![Headshot of Basel Hindi from the shoulders up smiling in a green sweater.](dreamprogram/images/Basel_Circle_Final.png)
+![Headshot of Basel Hindi from the shoulders up smiling in a green sweater.](images/Basel_Circle_Final.png)
 {: refdef}
 
 ## About My Advisor
