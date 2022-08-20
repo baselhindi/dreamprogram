@@ -28,7 +28,7 @@ footer-links:
   facebook:
   flickr:
   linkedin: basel-hindi-b1a453148
-  rss: # just type anything here for a working RSS icon
+  rss: https://baselhindi.github.io
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
