@@ -40,6 +40,6 @@ Sports Accessibility from Pixels: This project is led by Ph.D. student [Gaurav J
 
 ## My Blog
 
-[My Blog](https://baselhindi.github.io/dreamprogram/blog.html)
+[My Blog](blog.html)
 
 
